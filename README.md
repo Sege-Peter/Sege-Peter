@@ -10,7 +10,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/Sege-Peter"><img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya%20🇰🇪-000000?style=for-the-badge&logo=google-maps&logoColor=red" alt="Kenya" /></a>
+    <a href="https://github.com/Sege-Peter"><img src="https://img.shields.io/badge/Location-Kisumu%2C%20Kenya%20🇰🇪-000000?style=for-the-badge&logo=google-maps&logoColor=red" alt="Kisumu, Kenya" /></a>
     <a href="https://skopedesigns.co.ke"><img src="https://img.shields.io/badge/Founder%20%26%20CEO-Skope%20Designs-0F172A?style=for-the-badge&logo=sparkles&logoColor=F59E0B" alt="Skope Designs" /></a>
     <a href="https://github.com/Sege-Peter?tab=followers"><img src="https://img.shields.io/github/followers/Sege-Peter?label=Followers&style=for-the-badge&color=059669&logo=github" alt="GitHub Followers" /></a>
     <img src="https://img.shields.io/badge/Status-Shipping%20Production%20Systems-10B981?style=for-the-badge" alt="Status" />
