@@ -157,6 +157,19 @@ Skope Designs is my dedicated technology and creative enterprise powering busine
 
 ---
 
+# 🌐 Live Client Projects & Commercial Platforms
+
+| # | Project | Website | Description |
+| :---: | :--- | :--- | :--- |
+| **1** | **Trip Genius Advisory Safaris** | [tripgeniusadvisorysafaris.com](https://tripgeniusadvisorysafaris.com) | Travel & safari platform with tour experiences and travel inquiries |
+| **2** | **MUCISA** | [mucisa.com](https://mucisa.com) | Student technology, innovation, research and leadership hub |
+| **3** | **SkopeSana** | [skopesana.online](https://skopesana.online) | Digital platform / online marketplace |
+| **4** | **Hamasta Media** | [hamastamedia.com](https://hamastamedia.com) | Media & news platform with responsive, SEO-focused design |
+| **5** | **Victoria Agrotech Ltd** | [victoriaagrotechltd.com](https://victoriaagrotechltd.com) | Circular agribusiness, soil regeneration, clean energy and waste-management platform |
+| **6** | **Tuwi Africa Holidays** | [twiafricaholidays.com](https://twiafricaholidays.com) | Tours and safari booking platform |
+
+---
+
 # 🚀 Featured Systems & Repositories
 
 | Project | Description | Core Stack | Status |
