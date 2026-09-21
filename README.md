@@ -167,6 +167,7 @@ Skope Designs is my dedicated technology and creative enterprise powering busine
 | **4** | **Hamasta Media** | [hamastamedia.com](https://hamastamedia.com) | Media & news platform with responsive, SEO-focused design |
 | **5** | **Victoria Agrotech Ltd** | [victoriaagrotechltd.com](https://victoriaagrotechltd.com) | Circular agribusiness, soil regeneration, clean energy and waste-management platform |
 | **6** | **Tuwi Africa Holidays** | [twiafricaholidays.com](https://twiafricaholidays.com) | Tours and safari booking platform |
+| **7** | **WeCare Youth Organization** | [wecareyouth.org](https://wecareyouth.org) | Community development, youth empowerment, child protection and field operations platform |
 
 ---
 
